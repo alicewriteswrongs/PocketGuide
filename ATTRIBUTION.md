@@ -7,11 +7,11 @@ licensed under a creative commons or similar license.
 ##Details of specific images:
 
 - GPG logo: licensed under the GPL, taken from
-  (Wikimedia)[https://commons.wikimedia.org/wiki/File:Gnupg_logo.svg]
+  [Wikimedia](https://commons.wikimedia.org/wiki/File:Gnupg_logo.svg)
 - Thunderbird logo: copyrighted, but fair use allowed, taken from
-  (Wikipedia)[https://en.wikipedia.org/wiki/File:Mozilla_Thunderbird_logo.png]
+  [Wikipedia](https://en.wikipedia.org/wiki/File:Mozilla_Thunderbird_logo.png)
 - GPG diagram: made by the author. Includes a couple of source images:
     - Key image: sourced from
-      (freevectors.com)[http://www.freevectors.net/details/Key+On+A+White+Background]
+      [freevectors.com](http://www.freevectors.net/details/Key+On+A+White+Background)
     - Lock image: sourced from
-      (clipartsfree.net)[http://www.clipartsfree.net/svg/7249-lock-vector.html]
+      [clipartsfree.net](http://www.clipartsfree.net/svg/7249-lock-vector.html)
