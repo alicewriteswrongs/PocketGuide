@@ -10,3 +10,8 @@ licensed under a creative commons or similar license.
   (Wikimedia)[https://commons.wikimedia.org/wiki/File:Gnupg_logo.svg]
 - Thunderbird logo: copyrighted, but fair use allowed, taken from
   (Wikipedia)[https://en.wikipedia.org/wiki/File:Mozilla_Thunderbird_logo.png]
+- GPG diagram: made by the author. Includes a couple of source images:
+    - Key image: sourced from
+      (freevectors.com)[http://www.freevectors.net/details/Key+On+A+White+Background]
+    - Lock image: sourced from
+      (clipartsfree.net)[http://www.clipartsfree.net/svg/7249-lock-vector.html]
