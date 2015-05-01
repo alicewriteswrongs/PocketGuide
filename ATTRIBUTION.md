@@ -15,3 +15,4 @@ licensed under a creative commons or similar license.
       [freevectors.com](http://www.freevectors.net/details/Key+On+A+White+Background)
     - Lock image: sourced from
       [clipartsfree.net](http://www.clipartsfree.net/svg/7249-lock-vector.html)
+- Screenshots of Thunderbird UI: made by the author.
