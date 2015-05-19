@@ -15,7 +15,7 @@ print and distribute as many copies as you'd like.
 If you spot any inaccuracies or have any improvements/suggestions please
 either fork and submit a PR or send an email to <axyridis@riseup.net>.
 
-This work was producd using Gimp, Scribus, Inkscape, and GNU/Linux. 
+This work was produced using Gimp, Scribus, Inkscape, and GNU/Linux. 
 
 Happy folding!
 
