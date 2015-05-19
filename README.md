@@ -15,4 +15,11 @@ print and distribute as many copies as you'd like.
 If you spot any inaccuracies or have any improvements/suggestions please
 either fork and submit a PR or send an email to <axyridis@riseup.net>.
 
+This work was producd using Gimp, Scribus, Inkscape, and GNU/Linux. 
+
 Happy folding!
+
+This work is licensed under the Creative Commons
+Attribution-NonCommercial-ShareAlike 4.0 International License. To view
+a copy of this license, visit
+http://creativecommons.org/licenses/by-nc-sa/4.0/.
