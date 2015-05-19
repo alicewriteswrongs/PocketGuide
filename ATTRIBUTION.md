@@ -8,6 +8,8 @@ licensed under a creative commons or similar license.
 
 - GPG logo: licensed under the GPL, taken from
   [Wikimedia](https://commons.wikimedia.org/wiki/File:Gnupg_logo.svg)
+- CC logo: logo copyright Creative Commons, taken from [Creative
+  Commons](https://creativecommons.org/about/downloads/)
 - Thunderbird logo: copyrighted, but fair use allowed, taken from
   [Wikipedia](https://en.wikipedia.org/wiki/File:Mozilla_Thunderbird_logo.png)
 - GPG diagram: made by the author. Includes a couple of source images:
